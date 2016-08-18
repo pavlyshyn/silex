@@ -1,0 +1,5 @@
+Api\Entity\User:
+  properties:
+    email:
+      - NotNull: ~
+      - NotBlank: ~
